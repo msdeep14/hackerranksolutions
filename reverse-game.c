@@ -1,4 +1,5 @@
 //reverse-game
+//mandeep singh @msdeep14
 #include<stdio.h>
 int main()
 {

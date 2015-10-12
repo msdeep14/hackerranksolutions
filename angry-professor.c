@@ -1,4 +1,4 @@
-//angry professor
+//https://www.hackerrank.com/challenges/angry-professor
 #include<stdio.h>
 int main()
 {

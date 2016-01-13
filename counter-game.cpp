@@ -1,4 +1,4 @@
-//counter game
+//https://www.hackerrank.com/challenges/counter-game
 //mandeep singh @msdeep14
 #include<iostream>
 #include<math.h>

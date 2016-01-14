@@ -1,3 +1,5 @@
+#https://www.hackerrank.com/challenges/fibonacci-modified
+#mandeep singh @msdeep14
 a,b,n=map(int,raw_input().split())
 tn=a
 tn1=b

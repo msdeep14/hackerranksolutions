@@ -1,4 +1,5 @@
-//cavity-map
+//https://www.hackerrank.com/challenges/cavity-map
+//mandeep singh @msdeep14
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
